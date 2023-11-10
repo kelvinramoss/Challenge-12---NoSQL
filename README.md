@@ -12,5 +12,5 @@ Part 3: Exploratory Analysis
 Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
 
 
-#Credits
+# Credits
 I crafted this script by utilizing the initial code given, engaging in conversations with my tutor to address module challenge inquiries. With my tutor's guidance, we collaborated on developing a segment of the logic responsible for sorting and grouping the query. Additionally, I sought assistance from a peer to rectify a minor syntax error, which we successfully resolved together.
